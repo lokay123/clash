@@ -1,2 +1,3 @@
-DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,akamaized.net
+# 域名关键字匹配
+DOMAIN-KEYWORD,ofiii
+DOMAIN-KEYWORD,akamai
